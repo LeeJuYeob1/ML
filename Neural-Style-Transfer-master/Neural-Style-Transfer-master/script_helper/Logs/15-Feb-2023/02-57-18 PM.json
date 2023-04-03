@@ -1,0 +1,8 @@
+{
+  "Time": "15-Feb-2023 14:57:18",
+  "ScriptType": "INetwork.py",
+  "ContentFilePath": "D:\\ML\\Neural-Style-Transfer-master\\Neural-Style-Transfer-master\\images\\AKR20220810052600504_01_i_P4.jpg",
+  "StyleFilePath": "\"D:\\ML\\Neural-Style-Transfer-master\\Neural-Style-Transfer-master\\images\\maxresdefault.jpg\" ",
+  "OutputFilePrefix": "D:\\ML\\Neural-Style-Transfer-master\\style",
+  "ParameterList": "\"D:\\ML\\Neural-Style-Transfer-master\\Neural-Style-Transfer-master\\images\\AKR20220810052600504_01_i_P4.jpg\" \"D:\\ML\\Neural-Style-Transfer-master\\Neural-Style-Transfer-master\\images\\maxresdefault.jpg\" \"D:\\ML\\Neural-Style-Transfer-master\\style\" --image_size 400 --content_weight 0.025 --style_weight 1.0 --total_variation_weight 8.5E-05 --style_scale 1 --num_iter 100 --rescale_image \"True\" --rescale_method \"bicubic\" --maintain_aspect_ratio \"True\" --content_layer \"conv5_2\" --init_image \"content\" --pool_type \"max\" --preserve_color \"False\" --min_improvement 0 --model \"vgg16\" --content_loss_type 0"
+}
